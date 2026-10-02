@@ -183,24 +183,5 @@ The analysis helps answer questions such as:
 - Which cities generate higher sales?
 - Which products contribute most to revenue?
 
-## 📁 Project Structure
 
-```text
-E-Commerce-Sales-Analysis/
-│
-├── Dataset/
-│   └── ecommerce_sales.csv
-│
-├── Python/
-│   └── ecommerce_analysis.ipynb
-│
-├── SQL/
-│   └── ecommerce_analysis.sql
-│
-├── PowerBI/
-│   └── ecommerce_sales_dashboard.pbix
-│
-├── Images/
-│   └── dashboard.png
-│
 └── README.md
